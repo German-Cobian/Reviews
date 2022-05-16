@@ -1,6 +1,6 @@
 # Reviews
 
-"Reviews" is a simple app that reads and displays the dummy data contained in a file in the form of an array of objects (this data puports to be the photo, id-number, name, job and text contribution of the "reviewers"). The user can scroll to the previous or the next review by clicking on the "<" or the ">" buttons, or can go to a random review by clicking on the "Surprise Me" button.
+A simple React app that reads and displays the dummy data contained in a file in the form of an array of objects (this data puports to be the photo, id-number, name, job and text contribution of the "reviewers"). The user can scroll to the previous or the next review by clicking on the "<" or the ">" buttons, or can go to a random review by clicking on the "Surprise Me" button.
 
 ![Reviews](/public/reviews.png?raw=true "Reviews Image")
 
